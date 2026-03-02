@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardCredito</string>
+    <string name="titulo">Adicionar Cartão</string>string>
+    <string name="bandeira">Bandeira do cartão</string>
+</resources>

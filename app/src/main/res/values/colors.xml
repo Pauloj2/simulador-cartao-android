@@ -1,0 +1,7 @@
+<resources>
+    <color name="card_default">#0B4EB1</color>
+
+    <color name="card_visa">#1A237E</color>
+    <color name="card_master">#B71C1C</color>
+    <color name="card_unknown">#37474F</color>
+</resources>
